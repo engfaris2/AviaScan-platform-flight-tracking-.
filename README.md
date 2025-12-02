@@ -25,8 +25,19 @@ Users can view and filter comprehensive database tables containing essential avi
 * **Account:** Personalized account management and profile settings.
 * **Reviews:** A platform for user feedback and reviews.
 
+---
 
- Project StructureFolderContentDescriptionmain/PHP files, Application LogicContains the core application logic and user interface, including PHP scripts that run the website's functionalities.dataset/Initial Data Files (e.g., CSV, SQL)Includes the static or initial datasets used to populate the database tables (flights, airlines, airports, etc.) upon setup.example-images/ScreenshotsStores all image assets and visual references used within the README.md file to showcase the platform's features.README.mdMain Documentation FileProvides an overview of the project, features, setup instructions, and the visual showcase of the application pages.
+##  Project Structure
+
+The repository is organized to ensure clarity and separation of concerns:
+
+| Folder | Content | Description |
+| :--- | :--- | :--- |
+| **`main/`** | PHP files, Application Logic | Contains the core application logic and user interface, including PHP scripts that run the website's functionalities. |
+| **`dataset/`** | Initial Data Files (e.g., CSV, SQL) | Includes the static or initial datasets used to populate the database tables (flights, airlines, airports, etc.) upon setup. |
+| **`example-images/`** | Screenshots | Stores all image assets and visual references used within the `README.md` file to showcase the platform's features. |
+| **`README.md`** | Main Documentation File | Provides an overview of the project, features, setup instructions, and the visual showcase of the application pages. |
+
 ---
 
 ##  Application Pages Showcase
