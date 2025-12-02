@@ -26,15 +26,10 @@ Users can view and filter comprehensive database tables containing essential avi
 * **Reviews:** A platform for user feedback and reviews.
 
 
-## 📂 Project Structure
-
-The repository is organized to clearly separate application logic, data, and documentation:
----
-AviaScan-platform-flight-tracking ├── dataset/ # Contains initial or static aviation data/dumps for the database setup. ├── example-images/ # Screenshots used in this README for documentation and visual reference. ├── main/ # Core application files (e.g., PHP scripts and application logic). ├── README.md # The main documentation file you are currently reading.
-
+ Project StructureFolderContentDescriptionmain/PHP files, Application LogicContains the core application logic and user interface, including PHP scripts that run the website's functionalities.dataset/Initial Data Files (e.g., CSV, SQL)Includes the static or initial datasets used to populate the database tables (flights, airlines, airports, etc.) upon setup.example-images/ScreenshotsStores all image assets and visual references used within the README.md file to showcase the platform's features.README.mdMain Documentation FileProvides an overview of the project, features, setup instructions, and the visual showcase of the application pages.
 ---
 
-## 🖼️ Application Pages Showcase
+##  Application Pages Showcase
 
 The following screenshots illustrate the main pages and functionalities of the AviaScan platform:
 
