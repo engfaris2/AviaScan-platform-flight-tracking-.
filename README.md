@@ -25,10 +25,12 @@ Users can view and filter comprehensive database tables containing essential avi
 * **Account:** Personalized account management and profile settings.
 * **Reviews:** A platform for user feedback and reviews.
 
+
+## 📂 Project Structure
+
+The repository is organized to clearly separate application logic, data, and documentation:
 ---
-
 AviaScan-platform-flight-tracking ├── dataset/ # Contains initial or static aviation data/dumps for the database setup. ├── example-images/ # Screenshots used in this README for documentation and visual reference. ├── main/ # Core application files (e.g., PHP scripts and application logic). ├── README.md # The main documentation file you are currently reading.
-
 
 ---
 
@@ -74,6 +76,4 @@ The following screenshots illustrate the main pages and functionalities of the A
 
 ### Prepared by Fares Mubarak
 
-## 📂 Project Structure
 
-The repository is organized to clearly separate application logic, data, and documentation:
