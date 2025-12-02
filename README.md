@@ -75,11 +75,7 @@ The following screenshots illustrate the main pages and functionalities of the A
 ### Account
 ![Alt text](https://raw.githubusercontent.com/J-Hassel/FlightTrackinator3000/master/example-images/account-page.JPG "Account Page")
 
-### Reviews
-![Alt text](https://raw.githubusercontent.com/J-Hassel/FlightTrackinator3000/master/example-images/user-review.JPG "User Review Box")
 
----
-
-### Prepared by Fares Mubarak
+# Prepared by Fares Mubarak
 
 
